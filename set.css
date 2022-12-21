@@ -1,0 +1,10 @@
+.container{
+  max-width: 1200px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.text{
+  font-size: 40px;
+  color: darkcyan;
+}

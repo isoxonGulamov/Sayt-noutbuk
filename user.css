@@ -1,0 +1,38 @@
+.modal-content{
+  width: 400px;
+  padding: 40px;
+background-color: white;
+  position: absolute;
+  right: 50%;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+}
+.close{
+  position: absolute;
+  cursor: pointer;
+  right: 20px;
+  top:20px
+}
+.open{
+  display: block;
+}
+.changeUser{
+  margin-top: 10px;
+  margin-bottom: 10px;  
+}
+input{
+  display: block;
+}
+.input{
+  padding: 15px;
+}
+.form{
+ margin-left: 600px;
+ margin-top: 300px;
+}
+.user-btn{
+  padding: 7px;
+  background-color: yellowgreen;
+  border-radius: 15%;
+}
